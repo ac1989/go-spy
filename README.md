@@ -1,5 +1,7 @@
 # FPL Theatre
 
+See it live: http://139.59.175.5/
+
 ## FAQ
 
 ### What is FPL?
