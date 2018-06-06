@@ -6,7 +6,7 @@ See it live: http://139.59.175.5/
 
 ### What is FPL?
 
-FPL (Faceit Pro League) is a Counter Strike: Global Offensive league run by Faceit, that pits the very best players in the world against each other in 10 man pickup games.
+FPL (Faceit Pro League) is a [Counter Strike: Global Offensive](https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive) league run by [Faceit](https://www.faceit.com/), that pits the very best players in the world against each other in 10 man pickup games.
 
 ### What is FPL Theatre?
 
@@ -14,8 +14,8 @@ FPL Theatre polls live FPL data, matching players to online Twitch.tv streams. U
 
 ## Key Tech
 
-- React
-- Redux / Redux-Saga
-- Emotion
-- Express
-- Mongoose
+- [React](https://reactjs.org)
+- [Redux](https://redux.js.org) / [Redux-Saga](https://redux-saga.js.org)
+- [Emotion](https://emotion.sh)
+- [Express](https://expressjs.com)
+- [Mongoose](https://mongoosejs.com)
